@@ -20,7 +20,7 @@ def imprime_palavra_atual(palavra):
     print("")
 
 lista = le_arquivo(arquivo)
-print(lista) # descomente para verificar se a lista está correta
+#print(lista) # descomente para verificar se a lista está correta
 
 lista = le_arquivo(arquivo)
 # print(lista) # descomente para verificar se a lista está correta
