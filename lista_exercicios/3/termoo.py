@@ -52,7 +52,7 @@ while concluido == False:
     # A cada letra em palavra for correta ele mostra a tela com a letra
     # Caso a letra não esteja dentro do espaço ele mostra o espaço em branco
     # Quando o concluido for Verdadeiro ele encerra o jogo
-    print(palavra)
+    #print(palavra)
     tela = ""
     for letra in palavra:
         if letra in acerto:
