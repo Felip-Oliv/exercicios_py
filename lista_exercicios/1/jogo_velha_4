@@ -1,0 +1,6 @@
+# Imprimir tabuleiro
+# Recebe o tabuleiro como entrada e itera por cada linha criando a grade
+def print_board(board):
+    for row in board:
+        print(" | ".join(row))
+        print("_" * 14)
