@@ -43,5 +43,5 @@ Alguns recursos para você começar se este for seu primeiro projeto Python:
 
 Para obter ajuda para começar com o desenvolvimento do Python, veja o
 [online documentation]( https://www.python.org/doc/), que oferece tutoriais,
-amostras e orientação sobre desenvolvimento.
+amostras e orientação.
 
