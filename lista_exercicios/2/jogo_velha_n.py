@@ -30,6 +30,7 @@ def is_board_full(board):
 # Exibe o tabuleiro em formato de loopin e os jogadores fazem suas jogadas alternadamente. 
 # Até um ser vencedor ou o tabuleiro estar totalmente preenchido(empate)
 def main():
+    #Opção de adicionar o tamanho NXN para o tabuleiro
     bordl = int(input('Qual a quantidade de linhas?'))
     bordc = int(input('Qual a quantidade de cululas?'))
         
